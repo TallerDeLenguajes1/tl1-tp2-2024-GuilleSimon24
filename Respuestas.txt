@@ -1,0 +1,4 @@
+Contestando:
++ No se lo ve al archivo por que Git oculta los archivos de los otros branchs sobre los que no estoy parado
++ En la interfaz del gitk se agrega en la rama princpial graficamente el archivo respuestas.txt
++ Se unieron las 2 ramas y se sigue trabajando sobre el main
