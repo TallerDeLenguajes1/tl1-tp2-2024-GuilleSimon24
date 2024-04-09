@@ -1,4 +1,5 @@
 // codigo a completar
+#include <stdio.h>
 #define N 20
 
 int main(){
